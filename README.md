@@ -39,8 +39,8 @@ We’re going to build a modern messaging app where users can sign up and log in
 
 ## Contributer:
 
-- ArihantAbbad
-- onkarhanchate14
+- ArihantAbbad (https://github.com/ArihantAbbad/)
+- onkarhanchate14 (https://github.com/onkarhanchate14/)
 
 ## Contact:
 
